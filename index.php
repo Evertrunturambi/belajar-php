@@ -10,6 +10,6 @@ $nama = "Runturambi";
 $umur = 16;
 
 $selisihUmur = $umur-$umuradik ;
-echo "nama Adik saya <Strong> $nama</strong>, Adik saya berusia $umuradik tahun.<br> Selisih umur saya dan adik saya $selisih"
+echo "nama Adik saya <Strong> $nama</strong>, Adik saya berusia $umuradik tahun.<br> Selisih umur saya dan adik saya $selisih";
  ?>
   
